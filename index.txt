@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-this is my one version of my software gdskjghkjsghj
+this is my one version of my software gdskgfyhgbf
 =======
 this is my one version of my software in git hub
 >>>>>>> 70ac54db33440217743ccb4cd0fcbfcde9c93b5e
